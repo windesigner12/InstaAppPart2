@@ -34,9 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/BEZbojf.gifv' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/BEZboJf.gifv' alt='Video Walkthrough' />
 <br>
-<a href="http://i.imgur.com/BEZbojf.gifv">http://i.imgur.com/BEZbojf.gifv</a>
+<a href="http://i.imgur.com/BEZboJf.gifv">http://i.imgur.com/BEZbojf.gifv</a>
 
 
 ## Notes
